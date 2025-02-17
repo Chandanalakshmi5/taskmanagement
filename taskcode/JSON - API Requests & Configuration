@@ -1,0 +1,17 @@
+ Sample API Response
+
+{
+  "id": 1,
+  "title": "Complete the project",
+  "description": "Finish the task management system",
+  "status": "in-progress"
+}
+Package.json (Dependencies)
+{
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "axios": "^0.24.0"
+  }
+}
