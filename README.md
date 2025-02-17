@@ -14,7 +14,7 @@ cd task-app
 **Usage:** Provides documentation for the project.
 
 ---
-![image](https://github.com/user-attachments/assets/1f922241-3a53-4ad0-a3fc-f394e0d858e0)
+![image](https://github.com/user-attachments/assets/3d12f4a8-5fe9-4ece-b683-d0f2d0d0009a)
 
 
 ### **Conclusion**
